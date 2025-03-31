@@ -1,9 +1,0 @@
-yaml
-
-title:
-description: "Sharing my fixes and builds"
-theme: minima
-plugins:
-  - jekyll-feed
-
-
