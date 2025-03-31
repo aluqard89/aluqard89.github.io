@@ -1,4 +1,5 @@
+Your homepage:
 ```markdown
 layout: home
-Welcome to my blog! Check out my latest fixes below.
+Welcome to my blog! Below are my latest projects and repairs.
 
