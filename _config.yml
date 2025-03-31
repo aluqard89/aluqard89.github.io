@@ -1,8 +1,8 @@
 yaml
 
-title: "Aluqard89’s Project & Repair Blog"
+#title: "Aluqard89’s Project & Repair Blog"
 description: "Sharing my fixes and builds"
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
