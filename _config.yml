@@ -1,6 +1,8 @@
 yaml
 
-title: Aluqard89’s Fix-It Blog
-description: Documenting my projects and repairs.
-theme: minima
+title: Aluqard89’s Project & Repair Blog
+description: Sharing my fixes and builds.
+theme: minima  # A simple, built-in theme
+plugins:
+  - jekyll-feed  # Adds an RSS feed
 
