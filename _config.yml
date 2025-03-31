@@ -1,5 +1,5 @@
-yaml
-
-title: "Aluqard89s project"
-description: "Repairs"
+title: "Aluqard89's Project and Repair Blog"
+description: "Sharing my fixes and builds"
 theme: minima
+plugins:
+  - jekyll-feed
